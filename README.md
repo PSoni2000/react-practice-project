@@ -96,4 +96,5 @@ target="_blank" style='font-size:1.2rem; font-weight:bold;'>Add User App</a>
 
    ```
    console.log(nameInputRef.current.value)
+   nameInputRef.current.value = "";
    ```
